@@ -16,7 +16,7 @@ Declare `RatingView` in your XML with `app` attributes:
 
 ```xml
 <com.ictfoysal.ratingview.RatingView
-	android:layout_width="wrap_content"
+    android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     app:drawable_empty="@drawable/ic_star_empty"
     app:drawable_filled="@drawable/ic_star_filled"
